@@ -1,6 +1,6 @@
 <h1 align="center">Привет, меня зовут <a href="https://my-movies.nomoredomains.work/" target="_blank">Евгений</a>
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">И я - начинающий frontend-разработчик</h3>
+<h3 align="center">И я начинающий frontend-разработчик</h3>
 
 :joystick: Я интересуюсь видеоиграми, музыкой, книгами и конечно же фронтендом.  
 :chart_with_upwards_trend: Разработкой я занимаюсь с 2021 года и стараюсь всегда изучать что то новое.  
