@@ -26,3 +26,8 @@
 - <h3>Мои достижения:</h3>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=e-zybkin)](https://github.com/e-zybkin/github-profile-trophy)
+
+- <h3>Мои контакты:</h3>
+
+email: zybkin.evgeniy@gmail.com  
+tg: @e_zybkin
