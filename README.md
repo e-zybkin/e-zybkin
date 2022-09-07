@@ -30,4 +30,5 @@
 - <h3>Мои контакты:</h3>
 
 email: zybkin.evgeniy@gmail.com  
-tg: @e_zybkin
+tg: @e_zybkin  
+linkedIn: https://www.linkedin.com/in/e-zybkin
